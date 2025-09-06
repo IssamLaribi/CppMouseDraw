@@ -5,19 +5,6 @@ Features color switching, eraser, and clear screen.
 
 ---
 
-## ✨ Features
-- OpenGL window (800×600)  
-- Draw with **left-click + drag**  
-- **Right-click** clears the screen  
-- Change drawing color with keyboard keys:  
-  - `R` → Red  
-  - `G` → Green  
-  - `B` → Blue  
-  - `W` → White  
-- `E` key enables **eraser mode** (draw in black, same as background)  
-
----
-
 ## 📂 Project Structure
 
 ```
